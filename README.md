@@ -1,2 +1,2 @@
 # git-learning
-A canvas for learning about GoLang
+A canvas for learning about software languages
